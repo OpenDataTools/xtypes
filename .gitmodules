@@ -1,0 +1,3 @@
+[submodule "lib/ontolib"]
+	path = lib/ontolib
+	url = git://github.com/OpenDataTools/ontolib.git
